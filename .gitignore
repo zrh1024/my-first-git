@@ -1,0 +1,4 @@
+# 忽略 SSH 密钥文件
+ssh-key
+ssh-key.pub
+.ssh/
